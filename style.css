@@ -1,0 +1,123 @@
+body{
+
+background-color: cornflowerblue;
+
+}
+
+.texto{
+    color: black;
+}
+.texto2{
+    color: white;
+}
+
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    font-size: 40px;
+    padding-left: 140px;
+    padding-right: 160px;
+    background-color:darkslateblue;
+    color: azure;
+}
+
+.img1{ 
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 75px;
+    padding-top: 100px;
+    height: 400px;
+}
+.img2{ 
+    position: absolute;
+    padding-left: 130px;
+    padding-right: 105px;
+    padding-top: 25px;
+}
+.img4{ 
+    position: absolute;
+    padding-left: 130px;
+    padding-right: 105px;
+    padding-top: 405px;
+}
+
+.título1{
+    padding-right: 140px;
+}
+.títulop{
+    padding-right: 30px;
+    padding-right: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:aquamarine;
+}
+.título2{
+    padding-left: 130px;
+}
+.título3{
+    position: absolute;
+    margin-left:90px;
+    margin-top: 250px;
+    color:lavender;
+    
+}
+.título4{
+    position: absolute;
+    margin-left:80px;
+    margin-top: 670px;
+    color:lavender;
+}
+.título5{
+    position: absolute;
+    margin-left:35px;
+    margin-top: 670px;
+    color:lavender;
+}
+.título6{
+    position: absolute;
+    margin-left:135px;
+    margin-top: 670px;
+    color:lavender;
+}
+.título7{
+    position: absolute;
+    margin-left:175px;
+    margin-top: 300px;
+    color:black;
+}
+.bloco1{
+    margin-left: 475px;
+    height: 850px;
+    background-color:white;
+    width: 370px;
+    overflow: scroll;
+}
+.bloco2{
+    margin-left: 300px;
+    height: 850px;
+    background-color:white;
+    width: 370px;
+    overflow: scroll;
+}
+.bloco3{
+    margin-left: 50px;
+    height: 850px;
+    background-color:cornflowerblue;
+    width: 370px;
+    overflow: scroll;
+}
+.Controle{
+    display: flex;
+    }
+.voltar {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: 600;
+    left: 10px; /* Distância do canto direito */
+    bottom: 20px; /* Distância do topo */
+    color: black;
+}
+
